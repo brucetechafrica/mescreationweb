@@ -7,3 +7,6 @@
 - Site 5 : [Shop B](https://shopbhaute.com/)
 - Site 6 : [SOMINX](https://betaservicesgroup.com/)
 
+- Site 6 : [UBALDI](https://www.ubaldi.com/)
+
+
